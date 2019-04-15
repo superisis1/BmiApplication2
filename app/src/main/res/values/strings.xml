@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bmi Application 2</string>
+    <string name="input_text_button">입력하기</string>
+</resources>
